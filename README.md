@@ -6,8 +6,6 @@
 ### 📮Contact
 <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=choi-jiae&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choi-jiae&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 choi-jiae/choi-jiae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
