@@ -4,7 +4,9 @@
 <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/typescript-20232a.svg?style=for-the-badge&logo=typescript&logoColor=3178C6" />
 
 ### 📮Contact
-<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" href="https://velog.io/@choi-jiae/posts"/>
+<a href="https://velog.io/@choi-jiae/posts" >
+<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+</a>
 
 
 <!---
