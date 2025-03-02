@@ -9,6 +9,7 @@
 <a href="https://velog.io/@choi-jiae/posts" >
   <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
+<img src="https://img.shields.io/badge/chlwldo2002@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 
 
 <!---
