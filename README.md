@@ -5,7 +5,7 @@
 
 ### 📮Contact
 <a href="https://velog.io/@choi-jiae/posts" >
-<img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+  <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
 
 
